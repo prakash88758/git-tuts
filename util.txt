@@ -1,1 +1,1 @@
-utility function v.1
+utility function v.2
